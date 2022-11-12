@@ -1,4 +1,7 @@
 target/*
 .idea/
 .vscode
+src/main/java/META-INF
+out
+
 elevator-imitator.iml
