@@ -49,4 +49,5 @@ When boarding new passengers, the maximum floor is recalculated.
 # How to run:
     You can run <b>demo.Demo</b> with randomly generating buildings and people on the floors. 
     Or create your own building and elevator on <b>demo.YourDemo</b> and run it.
+    Or run elevator-imitator.jar
     
